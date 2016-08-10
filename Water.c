@@ -1,6 +1,8 @@
 # cs50
 This repository contains some of my coding projects as part of cs50.
 
+//This is a program that asks the user for the ammount of minutes he\she showers, and then outputs the equivalent ammount of water bottles used. 
+
 #include <stdio.h>
 #include <cs50.h>
 
